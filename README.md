@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik48&label=Profile%20views&color=0e75b6&style=flat" alt="ritik48" /> </p>
 
-- 🌱 I’m currently learning **Javasript for web development**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ritik48](https://github.com/ritik48)
 
 - 📫 How to reach me **raj769417@gmail.com**
-
-- 📄 Know about my experiences **As of now, I have knowledge of C++ , C, Python and JavaScript, and really like creating GUI applications in python using its Tkinter module.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
