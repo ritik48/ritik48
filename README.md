@@ -20,6 +20,9 @@
 <p><img align="left" src="https://github-readme-stats-ritik48.vercel.app/api/top-langs/?username=ritik48&layout=compact&theme=radical" alt="ritik48" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-ritik48.vercel.app/api?username=ritik48&show_icons=true&theme=radical" alt="ritik48" /></p>
 
+[![An image of @ritik48's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritik48)](https://holopin.io/@ritik48)
+
+
 
 
 
