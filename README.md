@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,typescript,tailwind,python,cpp,redis,npm,vercel" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nextjs,nodejs,typescript,tailwind,python,cpp,mysql,redis,npm,vercel" />
 
 <img src="https://streak-stats.demolab.com/?user=ritik48" />
 
