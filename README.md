@@ -19,7 +19,7 @@
 
 
 
-<img src="https://github-readme-streak-stats-fxldai833-ritik48s-projects.vercel.app?user=ritik48" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ritik48" />
 
 
 
