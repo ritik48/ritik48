@@ -17,7 +17,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nextjs,nodejs,typescript,tailwind,python,cpp,mysql,redis,npm,vercel" />
 
-<img src="https://github-readme-streak-stats-git-dependa-8935f0-ritik48s-projects.vercel.app/?user=ritik48" />
+
+
+<img src="https://github-readme-streak-stats-fxldai833-ritik48s-projects.vercel.app?user=ritik48" />
+
+
 
 <p><img align="left" src="https://github-readme-stats-nine-beta-16.vercel.app/api/top-langs/?username=ritik48&layout=compact&theme=radical" alt="ritik48" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-nine-beta-16.vercel.app/api?username=ritik48&show_icons=true&theme=radical" alt="ritik48" /></p>
