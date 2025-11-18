@@ -2,10 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik48&label=Profile%20views&color=0e75b6&style=flat" alt="ritik48" /> </p>
 
-- 🌱 Exploring NextJs
-
-- 👨‍💻 All of my projects are available at [https://github.com/ritik48](https://github.com/ritik48)
-
+- 🌱 Exploring Devops
 - 📫 How to reach me **raj769417@gmail.com**
 - 🔗 Portfolio website: **https://ritik-dev.vercel.app**
 
